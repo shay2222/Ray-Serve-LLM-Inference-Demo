@@ -1,9 +1,6 @@
 # Ray-Serve-LLM-Inference-Demo
 End-to-end scalable LLM inference demo using Ray Serve. Built to demonstrate production MLOps patterns for AI workloads on high-performance GPU infrastructure.
 
-# Ray Serve LLM Inference Demo
-
-This project demonstrates modern MLOps patterns for deploying and optimizing AI inference workloads on high-performance GPU infrastructure.
 
 ## Project Overview
 
